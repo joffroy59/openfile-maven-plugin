@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=org.offroy.maven.plugin\:openfile-maven-plugin
+serverUrl=http\://ubuntu-sonarqube\:9000
+version=2
